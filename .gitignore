@@ -2,6 +2,7 @@
 finder_charts/*.pdf
 finder_charts/*.fits
 reference/*.pdf
+plots/*.pdf
 
 # Python
 __pycache__/
