@@ -5,3 +5,4 @@ astroquery
 astroplan
 jupyterlab
 ipyaladin
+pyongc
